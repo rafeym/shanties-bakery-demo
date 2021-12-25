@@ -16,7 +16,7 @@ This repo is a demo version of a deployed project that I have worked on for a sm
   - Orders
 - Mobile Compatibile
 
-## Tech Stack
+## Tech Stack 👨‍💻
 
 ### Client
 
