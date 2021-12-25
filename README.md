@@ -1,4 +1,4 @@
-# [Shantie's Bakery Demo]()
+# [Shantie's Bakery Demo](https://shanties-bakery-demo.vercel.app/)
 
 This repo is a demo version of a deployed project that I have worked on for a small bakery business called Shantie's Bakery.
 
