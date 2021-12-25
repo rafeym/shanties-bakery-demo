@@ -1,0 +1,66 @@
+.contact-container {
+  min-height: calc(100vh - 211px - 58px);
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  & h2 {
+    font-size: 3rem;
+    margin: 2rem 0rem;
+  }
+
+  & .contact-option {
+    width: 700px;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid black;
+    cursor: pointer;
+
+    & .contact-option-title {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      & h3 {
+        font-size: 1.8rem;
+      }
+    }
+
+    & .question-icon {
+      font-size: 28px;
+    }
+
+    & .contact-option-info {
+      max-height: 0;
+      overflow: hidden;
+
+      & p {
+        padding-top: 1rem;
+        line-height: 1.6;
+        font-size: 1.2rem;
+      }
+    }
+  }
+}
+
+.contact-option.active .contact-option-info {
+  max-height: 400px;
+}
+
+@media screen and (max-width: 700px) {
+  .contact-option {
+    max-width: 300px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .contact-option {
+    max-width: 200px;
+  }
+
+  .contact-container .contact-option .contact-option-info p {
+    font-size: 0.8rem;
+  }
+}
