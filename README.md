@@ -21,6 +21,7 @@ This repo is a demo version of a deployed project that I have worked on for a sm
 ### Client
 
 - React.js
+- Redux
 - SASS
 - Deployed on Vercel
 
