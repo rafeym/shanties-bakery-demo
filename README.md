@@ -4,8 +4,8 @@ This repo is a demo version of a deployed project that I have worked on for a sm
 
 The original repo for this project can be found here
 
--[Shantie's Bakery](https://github.com/rafeym/shanties-bakery)
--[Production URL](https://www.shantiesbakery.ca)
+- [Shantie's Bakery Repo](https://github.com/rafeym/shanties-bakery)
+- [Production URL](https://www.shantiesbakery.ca)
 
 
 ## Features ⭐
