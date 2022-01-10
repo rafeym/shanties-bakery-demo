@@ -2,6 +2,11 @@
 
 This repo is a demo version of a deployed project that I have worked on for a small bakery business called Shantie's Bakery.
 
+The original repo for this project can be found here 
+-[Shantie's Bakery](https://github.com/rafeym/shanties-bakery)
+-[Production URL](https://www.shantiesbakery.ca)
+
+
 ## Features ⭐
 
 - Guest Checkout
